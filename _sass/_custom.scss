@@ -1,10 +1,9 @@
-/* 主页面内容更宽（包含主体与侧边栏整体容器） */
-.page {
-  max-width: 1400px;  /* 改这里：1200/1400/1600 都行 */
+/* 加宽主内容区域（包含你截图的 Experiences 正文） */
+#main {
+  max-width: 1600px;   /* 你想要多宽改这里 */
 }
 
-/* 正文两端对齐：只对段落生效 */
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
+/* 让内容区尽量吃满可用宽度（部分主题会给它限宽） */
+.page__content {
+  max-width: none;
 }
