@@ -13,6 +13,8 @@ redirect_from:
 <small>Facult of Arts and Sciences, Beijing Normal University</small> <br>
 <small>**E-mail**: jiandian[AT]bnu.edu.cn</small> <br>
 
+这是 <span class="text-red">红色</span>、<span class="text-blue">蓝色</span>、<span class="text-muted">灰色</span>。
+
 Research Interest:
 ---
 <small>Knowledge Engineering, Affective Computing</small> <br> 
