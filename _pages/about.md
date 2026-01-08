@@ -100,8 +100,8 @@ Reviewer:
 <small>IEEE Signal Processing</small> <br>
 <small>IEEE/CAA Journal of Automatica Sinica</small> <br>
 <small>IEEE Network</small> <br>
-<small>Information Sciences</small>
-<small>Neurocomputing</small>
+<small>Information Sciences</small><br>
+<small>Neurocomputing</small><br>
 <small>ACL, ICML, AAAI, EMNLP, NAACL, COLING</small> <br>
 <small>...</small>
 
