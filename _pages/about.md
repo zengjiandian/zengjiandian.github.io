@@ -23,10 +23,11 @@ redirect_from:
 <small>**2019.01-2023.02,  Ph.D.**, Department of Computer and Information Science, University of Macau, Macau, China</small>
 
 **Teaching:** <br>
-<small>Literature Reading and Writing (文献阅读与论文写作)</small> **2026 Spring**<br>
-<small>Frontiers of Deep Learning (深度学习前沿)</small> **2023 Spring, 2024 Spring**<br>
-<small>Algorithm and Programming with Python (算法与程序设计(Python))</small> **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring**<br>
+<small>Literature Reading and Writing (文献阅读与论文写作) **2026 Spring** </small><br>
+<small>Frontiers of Deep Learning (深度学习前沿) **2023 Spring, 2024 Spring** </small><br>
+<small>Algorithm and Programming with Python (算法与程序设计(Python))**2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring** </small><br>
 
+**Projects:** <br>
 
 **Journal Papers (Selected):** <br>
 <small>just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test just test </small>
