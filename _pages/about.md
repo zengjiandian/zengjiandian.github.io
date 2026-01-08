@@ -90,12 +90,13 @@ Reviewer:
 ---
 <small>IEEE Transactions on Pattern Analysis and Machine Learning (TPAMI)</small> <br>
 <small>ACM Transactions on Information System (TOIS)</small> <br>
-<small>Transactions on Dependable and Secure Computing (TDSC)</small> <br>
+<small>IEEE Transactions on Dependable and Secure Computing (TDSC)</small> <br>
 <small>IEEE Transactions on Multimedia (TMM)</small> <br>
 <small>IEEE Transactions on Affective Computing (TAFFC)</small> <br>
 <small>IEEE Transactions on Audio, Speech and Language Processing (TASLP)</small> <br>
 <small>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</small> <br>
 <small>IEEE Transactions on Intelligent Transportation Systems (TITS)</small> <br>
+
 <small>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</small> <br>
 <small>IEEE Signal Processing</small> <br>
 <small>IEEE/CAA Journal of Automatica Sinica</small> <br>
