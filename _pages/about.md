@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Jiandian Zeng**<br>
+<span class="text-xl">**Jiandian Zeng**</span><br>
 <small>Assistant Professor, Ph.D. Supervisor, [Google Scholar](https://scholar.google.com/citations?user=g0k3YVoAAAAJ)</small> <br>
 <small>Institute of Artificial Intelligence and Future Networks</small> <br>
 <small>Facult of Arts and Sciences, Beijing Normal University</small> <br>
