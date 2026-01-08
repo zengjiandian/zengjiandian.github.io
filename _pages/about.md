@@ -8,18 +8,16 @@ redirect_from:
 ---
 
 **Jiandian Zeng** <br>
-<small>Assistant Professor, Ph.D. Advisor</small> <br>
+<small>Assistant Professor, Ph.D. Advisor [Google Scholar](https://scholar.google.com/citations?user=g0k3YVoAAAAJ)</small> <br>
 <small>Institute of Artificial Intelligence and Future Networks</small> <br>
 <small>Facult of Arts and Sciences, Beijing Normal University</small> <br>
 <small>**E-mail**: jiandian[AT]bnu.edu.cn</small> <br>
-<small>[Google Scholar](https://scholar.google.com/citations?user=g0k3YVoAAAAJ)</small> 
 
-#这是 <span class="text-red">红色</span>、<span class="text-blue">蓝色</span>、<span class="text-muted">灰色</span>。
 
 <span class="text-red">News</span>
 ---
-<small>I am recruiting Ph.D. and Master for Fall 2026 admission (2026.09).</small> <br>
-<small>Interested applicants are welcome to contact me.</small>
+*I am recruiting Ph.D. and Master for **Fall 2026 admission (2026.09).*** <br>
+*Interested applicants are welcome to contact me.*
 
 Research Interest:
 ---
