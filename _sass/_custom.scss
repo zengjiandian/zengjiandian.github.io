@@ -26,9 +26,20 @@
 /* 若仍然被整体容器卡住，再加宽主容器 */
 #main,
 .page {
-  max-width: 2400px; /* 或 1800px/100% */
+  max-width: 2500px; /* 或 1800px/100% */
 }
 .page__content p {
   text-align: justify;
   text-justify: inter-word;
+}
+
+/* 让有序列表编号占固定宽度，正文对齐 */
+.page__content ol {
+  list-style-position: outside;
+  padding-left: 2.2em;   /* 预留给“1.”的位置，可按需要调大/调小 */
+  margin-left: 0;
+}
+
+.page__content ol > li {
+  padding-left: 0;
 }
