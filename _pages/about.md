@@ -88,7 +88,7 @@ Alumni:
 
 Reviewer:
 ---
-<small>IEEE Transactions on Pattern Analysis and Machine (TPAMI)</small> <br>
+<small>IEEE Transactions on Pattern Analysis and Machine Learning (TPAMI)</small> <br>
 <small>ACM Transactions on Information System (TOIS)</small> <br>
 <small>Transactions on Dependable and Secure Computing (TDSC)</small> <br>
 <small>IEEE Transactions on Multimedia (TMM)</small> <br>
