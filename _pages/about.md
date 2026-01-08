@@ -80,11 +80,11 @@ Conference Papers (Selected):
 Alumni:
 ---
 **Undergraduate**<br>
-<small>**Yao Chen (陈瑶)**, BNU, 2024-present, direct Ph.D. candidate, Beijing Normal University </small> <br>
-<small>**Xinyi Jin (靳炘依)**, BNU, 2024-2026, as Master, The University of Hong Kong  </small> <br>
-<small>**Diefan Lin (林垤帆)**, BNU, 2023-2025, as Master, Xi'an Jiaotong University </small> <br>
-<small>**Xiucheng Guo (郭修晨)** BNU, 2024-2025, as Master, Beijing Normal University </small> <br>
-<small>**Xuandong Liang (梁炫栋)**, BNU, 2024-2025, Mater, University of Chinese Academy of Sciences </small> <br>
+<small>**Yao Chen (陈瑶)**, BNU, 2024-present, **direct Ph.D. candidate**, Beijing Normal University </small> <br>
+<small>**Xinyi Jin (靳炘依)**, BNU, 2024-2026, **as Master**, The University of Hong Kong  </small> <br>
+<small>**Diefan Lin (林垤帆)**, BNU, 2023-2025, **as Master**, Xi'an Jiaotong University </small> <br>
+<small>**Xiucheng Guo (郭修晨)** BNU, 2024-2025, **as Master**, Beijing Normal University </small> <br>
+<small>**Xuandong Liang (梁炫栋)**, BNU, 2024-2025, **as Master**, University of Chinese Academy of Sciences </small> <br>
 
 
 
