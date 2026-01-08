@@ -86,5 +86,24 @@ Alumni:
 <small>**Xiucheng Guo (郭修晨)** BNU, 2024-2025, **as Master**, Beijing Normal University </small> <br>
 <small>**Xuandong Liang (梁炫栋)**, BNU, 2024-2025, **as Master**, University of Chinese Academy of Sciences </small> <br>
 
+Reviewer:
+---
+<small>IEEE Transactions on Pattern Analysis and Machine (TPAMI)</small> <br>
+<small>ACM Transactions on Information System (TOIS)</small> <br>
+<small>Transactions on Dependable and Secure Computing (TDSC)</small> <br>
+<small>IEEE Transactions on Multimedia (TMM)</small> <br>
+<small>IEEE Transactions on Affective Computing (TAFFC)</small> <br>
+<small>IEEE Transactions on Audio, Speech and Language Processing (TASLP)</small> <br>
+<small>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</small> <br>
+<small>IEEE Transactions on Intelligent Transportation Systems (TITS)</small> <br>
+<small>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</small> <br>
+<small>IEEE Signal Processing</small> <br>
+<small>IEEE/CAA Journal of Automatica Sinica</small> <br>
+<small>IEEE Network</small> <br>
+<small>Information Sciences</small>
+<small>Neurocomputing</small>
+<small>ACL, ICML, AAAI, EMNLP, NAACL, COLING</small> <br>
+<small>...</small>
+
 
 
