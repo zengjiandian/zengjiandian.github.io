@@ -49,20 +49,20 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
-<small>1. **Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2026 </small><br>
-<small>2. **Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, Accepted, 2026</small><br>
+<small>1. **Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2026 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>2. **Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, Accepted, 2026 ***<span class="text-blue">JCR Q1</span>***</small><br>
 <small>3. Yang Li, Yusong Xue, **Jiandian Zeng\***, Danyang Zheng, Li Feng, Huanlai Xing, Collaborative Transformer Inference in Multi-Tier
-Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026</small><br>
-<small>4. Changfu Xu, Jianxiong Guo, **Jiandian Zeng**, Houming Qiu, Tian Wang, Xiaowen Chu, Jiannong Cao,Enhancing AIGC Service Efficiency with Adaptive Multi-Edge Collaboration in A Distributed System, ***IEEE Transactions on Services Computing (TSC)***, 2025.12 </small><br>
-<small>5.  Changfu Xu, Jianxiong Guo, Yuzhu Liang, Haodong Zou, **Jiandian Zeng**, Haipeng Dai, Weijia Jia, Jiannong Cao, Tian Wang, Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling, ***IEEE Transactions on Mobile Computing (TMC)***, 2025.07</small><br>
-<small>6. Guo Li, **Jiandian Zeng**, Zihao Peng, Yuzhu Liang, Xi Zheng, Tian Wang, E2EC: Edge-to-Edge Collaboration for Efficient Real-Time Video Surveillance Inference,  ***IEEE Transactions on Mobile Computing (TMC)***, 2025.04 </small><br>
-<small>7. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng\***, Syn‐Aug: An Effective and General Synchronous Data Augmentation Framework for 3D Object Detection, ***CAAI Transactions on Intelligence Technology (CAAI)***, 2025.04 </small><br>
-<small>8. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng\***, MSSA: Multi-Representation Semantics-Augmented Set Abstraction for 3D Object Detection, ***ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)***, 2024.10 </small><br>
-<small>9. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng**, PVConvNet: Pixel-Voxel Sparse Convolution for Multimodal 3D Object Detection, ***Pattern Recognition (PR)***, 2024.05 </small><br>
-<small>10. **Jiandian Zeng**, Jiantao Zhou, Caishi Huang, Exploring Semantic Relations for Social Media Sentiment Analysis, ***IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)***, 2023.06 </small><br>
-<small>11.  **Jiandian Zeng**, Jiantao Zhou, Tianyi Liu, Robust Multimodal Sentiment Analysis via Tag Encoding of Uncertain Missing Modalities, ***IEEE Transactions on Multimedia (TMM)***,2022.09 </small><br>
-<small>12. **Jiandian Zeng**, Tianyi Liu, Weijia Jia, Jiantao Zhou, Relation Construction for Aspect-Level Sentiment Classification, ***Information Sciences***, 2022.03 </small><br>
-<small>13. **Jiandian Zeng**, Tianyi Liu, Weijia Jia, Jiantao Zhou, Fine-Grained Question-Answer Sentiment Classification with Hierarchical Graph Attention Network, ***Neurocomputing***, 2021.10 </small><br>
+Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026 ***<span class="text-blue">JCR Q1</span>***</small><br>
+<small>4. Changfu Xu, Jianxiong Guo, **Jiandian Zeng**, Houming Qiu, Tian Wang, Xiaowen Chu, Jiannong Cao,Enhancing AIGC Service Efficiency with Adaptive Multi-Edge Collaboration in A Distributed System, ***IEEE Transactions on Services Computing (TSC)***, 2025.12 ***<span class="text-blue">CCF A, JCR Q1</span>***</small><br>
+<small>5.  Changfu Xu, Jianxiong Guo, Yuzhu Liang, Haodong Zou, **Jiandian Zeng**, Haipeng Dai, Weijia Jia, Jiannong Cao, Tian Wang, Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling, ***IEEE Transactions on Mobile Computing (TMC)***, 2025.07 ***<span class="text-blue">CCF A, JCR Q1</span>***</small><br>
+<small>6. Guo Li, **Jiandian Zeng**, Zihao Peng, Yuzhu Liang, Xi Zheng, Tian Wang, E2EC: Edge-to-Edge Collaboration for Efficient Real-Time Video Surveillance Inference,  ***IEEE Transactions on Mobile Computing (TMC)***, 2025.04 ***<span class="text-blue">CCF A, JCR Q1</span>*** </small><br>
+<small>7. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng\***, Syn‐Aug: An Effective and General Synchronous Data Augmentation Framework for 3D Object Detection, ***CAAI Transactions on Intelligence Technology (CAAI)***, 2025.04 ***<span class="text-blue">JCR Q1</span>*** </small><br>
+<small>8. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng\***, MSSA: Multi-Representation Semantics-Augmented Set Abstraction for 3D Object Detection, ***ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)***, 2024.10 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>9. Huaijin Liu, Jixiang Du, Yong Zhang, Hongbo Zhang, **Jiandian Zeng**, PVConvNet: Pixel-Voxel Sparse Convolution for Multimodal 3D Object Detection, ***Pattern Recognition (PR)***, 2024.05 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>10. **Jiandian Zeng**, Jiantao Zhou, Caishi Huang, Exploring Semantic Relations for Social Media Sentiment Analysis, ***IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)***, 2023.06 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>11.  **Jiandian Zeng**, Jiantao Zhou, Tianyi Liu, Robust Multimodal Sentiment Analysis via Tag Encoding of Uncertain Missing Modalities, ***IEEE Transactions on Multimedia (TMM)***,2022.09 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>12. **Jiandian Zeng**, Tianyi Liu, Weijia Jia, Jiantao Zhou, Relation Construction for Aspect-Level Sentiment Classification, ***Information Sciences***, 2022.03 ***<span class="text-blue">CCF B, JCR Q1</span>***</small><br>
+<small>13. **Jiandian Zeng**, Tianyi Liu, Weijia Jia, Jiantao Zhou, Fine-Grained Question-Answer Sentiment Classification with Hierarchical Graph Attention Network, ***Neurocomputing***, 2021.10 ***<span class="text-blue">JCR Q1</span>*** </small><br>
 <small>14. **曾建电**, 邹文成, 王田, 大模型浪潮下高校编程教育的风险、反思与改革, ***中国教育信息化***, Accepted, 2026</small><br>
 <small>15. **曾建电**, 邹文成, 王田, 基于大模型数据增强的课堂行为分析, ***教育学刊***, 2025.05</small><br>
 <small>16. **曾建电**, 王田, 贾维嘉, 彭绍亮, 王国军, 传感云研究综述, ***计算机研究与发展***, 2017.05 </small><br>
@@ -70,9 +70,9 @@ Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026</small><br>
 
 Conference Papers (Selected):
 ---
-<small>1. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 </small><br>
-<small>2. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 </small><br>
-<small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 </small><br>
+<small>1. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">CCF A</span>***</small><br>
+<small>2. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">CCF A</span>***</small><br>
+<small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">CCF B</span>***</small><br>
 <small>4. Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
 <small>5. **Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
 
