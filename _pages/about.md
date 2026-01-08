@@ -16,8 +16,8 @@ redirect_from:
 
 <span class="text-red">News</span>
 ---
-*I am recruiting Ph.D. and Master for **Fall 2026 admission (2026.09).*** <br>
-*Interested applicants are welcome to contact me.*
+<span class="text-muted">*I am recruiting Ph.D. and Master for **Fall 2026 admission (2026.09).***</span> <br>
+<span class="text-muted">*Interested applicants are welcome to contact me.*</span> 
 
 Research Interest:
 ---
