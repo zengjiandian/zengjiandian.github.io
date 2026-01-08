@@ -1,9 +1,15 @@
-/* 加宽主内容区域（包含你截图的 Experiences 正文） */
-#main {
-  max-width: 1600px;   /* 你想要多宽改这里 */
+/* 让主内容列（红框）占满右侧剩余空间 */
+.page__inner-wrap {
+  max-width: none;
 }
 
-/* 让内容区尽量吃满可用宽度（部分主题会给它限宽） */
 .page__content {
   max-width: none;
+  width: 100%;
+}
+
+/* 若仍然被整体容器卡住，再加宽主容器 */
+#main,
+.page {
+  max-width: 1600px; /* 或 1800px/100% */
 }
