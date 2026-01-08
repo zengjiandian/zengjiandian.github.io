@@ -1,17 +1,23 @@
-body { outline: 6px solid red !important; }
-
-/* 让主内容列（红框）占满右侧剩余空间 */
-.page__inner-wrap {
-  max-width: none;
+/* 让主体区域两列布局：左侧sidebar固定，右侧内容吃满剩余宽度 */
+#main {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 2rem !important;
+  max-width: none !important;
 }
 
+/* 左侧作者栏/侧边栏：保持原宽度（如有需要可调整 250/280） */
+.sidebar {
+  flex: 0 0 260px !important;
+}
+
+/* 右侧正文：占满剩余宽度 */
+.archive,
+.page,
+.page__inner-wrap,
 .page__content {
-  max-width: none;
-  width: 100%;
-}
-
-/* 若仍然被整体容器卡住，再加宽主容器 */
-#main,
-.page {
-  max-width: 1600px; /* 或 1800px/100% */
+  flex: 1 1 auto !important;
+  max-width: none !important;
+  width: auto !important;
+  min-width: 0 !important; /* 防止长单词把布局撑坏 */
 }
