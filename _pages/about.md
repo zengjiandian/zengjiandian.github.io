@@ -22,7 +22,7 @@ redirect_from:
 Research Interests:
 ---
 <small>Knowledge Engineering, Affective Computing</small> <br> 
-<small>LLM and SLM, Edge Intelligence</small>
+<small>LLM and SLM, Edge Intelligence, RAG System</small>
 
 Experiences:
 ---
@@ -89,6 +89,7 @@ Alumni:
 Reviewer:
 ---
 <small>IEEE Transactions on Pattern Analysis and Machine Learning (TPAMI)</small> <br>
+<small>IEEE Transactions on Information Forensics and Security (TIFS)</small> <br>
 <small>ACM Transactions on Information System (TOIS)</small> <br>
 <small>IEEE Transactions on Dependable and Secure Computing (TDSC)</small> <br>
 <small>IEEE Transactions on Multimedia (TMM)</small> <br>
