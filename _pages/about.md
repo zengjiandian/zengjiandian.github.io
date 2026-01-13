@@ -70,11 +70,12 @@ Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026 ***<span class="tex
 
 Conference Papers (Selected):
 ---
-<small>1. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small><br>
-<small>2. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small><br>
-<small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small><br>
-<small>4. Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
-<small>5. **Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
+<small>1. Ke Chen#, Jiandian Zeng#, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026(WWW)***, accepted, 2026. ***<span class="text-blue">(CCF A)</span>***</small><br>
+<small>2. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small><br>
+<small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small><br>
+<small>4. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small><br>
+<small>5. Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
+<small>6. **Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
 
 
 Alumni:
