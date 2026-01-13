@@ -70,7 +70,7 @@ Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026 ***<span class="tex
 
 Conference Papers (Selected):
 ---
-<small>1. Ke Chen&dagger, Jiandian Zeng&dagger, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026(WWW)***, accepted, 2026. ***<span class="text-blue">(CCF A)</span>***</small><br>
+<small>1. Ke Chen&dagger, **Jiandian Zeng**&dagger, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026(WWW)***, accepted, 2026. ***<span class="text-blue">(CCF A)</span>***</small><br>
 <small>2. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small><br>
 <small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small><br>
 <small>4. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small><br>
