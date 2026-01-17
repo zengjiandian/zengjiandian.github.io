@@ -42,5 +42,4 @@
 .text-xl { font-size: 1.5em; }
 .text-xll { font-size: 1.8em; }
 
-.small-ol { font-size: 0.9em; }              /* 列表整体文字 */
-.small-ol li::marker { font-size: 0.75em; }  /* 仅编号大小（现代浏览器） */
+.small-ol li::marker { font-size: 0.65em; }
