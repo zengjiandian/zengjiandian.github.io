@@ -38,7 +38,7 @@ Teaching:
 
 Projects:
 ---
-<div class="small-ol">
+
 1. <small>**PI**, Natural Science Foundation of China (NSFC), Research on the Key Technology of Robust Multimodal Sentiment
 Analysis (国家自然科学基金委青年科学基金项目, 面向鲁棒性多模态情感分析关键技术研究), 300K RMB, 2024.01-2026.12</small><br>
 1. <small>**PI**, COIOS Artificial Intelligence Technology Co. Technical Project, Development of COIOS Cognitive
@@ -46,7 +46,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 1. <small>**PI**, Guangdong Undergraduate Universities Teaching Quality and Reform Project, Exploring Heuristic Learning Based on Multimodal  Large Models（广东省本科高校教学质量与教学改革工程项目, 基于多模态大模型的启发式学习探索), jx2024309, 2024.12-2026.12, 30K RMB </small><br>
 1. <small>**PI**, Beijing Normal University Education Reform Project, Exploring Heuristic Learning Driven by Multimodal Large Models: A Case Study of Algorithms and Programming (Python) (北京师范大学教学建设与改革项目，多模态大模型驱动下的启发式学习探索-以《算法与程序设计（Python）》为例), jx2024040, 2024.06-2025.06, 20K RMB </small><br>
 1. <small>**PI**, Beijing Normal University Teaching Development Project, Research and Practice on Student Classroom Behavior Based on Multimodal Data (北京师范大学教师教学发展基金项目, 基于多模态的学生课堂学习状态研究与实践), 110124201507, 2024.06-2024.12, 10K RMB </small><br>
-</div>
+{: .small-ol }
 
 Journal Papers (Selected):
 ---
