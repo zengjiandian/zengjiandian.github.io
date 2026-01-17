@@ -38,7 +38,6 @@ Teaching:
 
 Projects:
 ---
-
 1. <small>**PI**, Natural Science Foundation of China (NSFC), Research on the Key Technology of Robust Multimodal Sentiment
 Analysis (国家自然科学基金委青年科学基金项目, 面向鲁棒性多模态情感分析关键技术研究), 300K RMB, 2024.01-2026.12</small><br>
 1. <small>**PI**, COIOS Artificial Intelligence Technology Co. Technical Project, Development of COIOS Cognitive
