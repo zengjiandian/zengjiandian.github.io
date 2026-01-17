@@ -36,7 +36,7 @@ Teaching:
 <small>Frontiers of Deep Learning (深度学习前沿) **2023 Fall, 2024 Fall** </small><br>
 <small>Algorithm and Programming with Python (算法与程序设计(Python)) **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring** </small><br>
 
-Projects:
+Projects:test
 ---
 <small>1. **PI**, Natural Science Foundation of China (NSFC), Research on the Key Technology of Robust Multimodal Sentiment
 Analysis (国家自然科学基金委青年科学基金项目, 面向鲁棒性多模态情感分析关键技术研究), 300K RMB, 2024.01-2026.12</small><br>
