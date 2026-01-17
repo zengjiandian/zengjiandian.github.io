@@ -32,9 +32,10 @@ Experiences:
 
 Teaching:
 ---
-<small>Literature Reading and Writing (文献阅读与论文写作) **2026 Spring** </small><br>
-<small>Frontiers of Deep Learning (深度学习前沿) **2023 Fall, 2024 Fall** </small><br>
-<small>Algorithm and Programming with Python (算法与程序设计(Python)) **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring** </small><br>
+1. <small>Literature Reading and Writing (文献阅读与论文写作) **2026 Spring** </small>
+1. <small>Frontiers of Deep Learning (深度学习前沿) **2023 Fall, 2024 Fall** </small>
+1. <small>Algorithm and Programming with Python (算法与程序设计(Python)) **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring** </small>
+{: .small-ol .noindent}
 
 Projects:
 ---
