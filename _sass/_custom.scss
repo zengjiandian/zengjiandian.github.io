@@ -13,7 +13,6 @@
   max-width: none !important;
 }
 
-
 .page__inner-wrap {
   max-width: none;
 }
@@ -28,15 +27,30 @@
 .page {
   max-width: 2500px; /* 或 1800px/100% */
 }
+
+/* 段落两端对齐（仅对 <p> 生效） */
 .page__content p {
   text-align: justify;
   text-justify: inter-word;
 }
 
+/* 让“列表条目”两端对齐（你的 Projects / Papers / Conference 都是 ol/li） */
+.page__content ol.small-ol > li {
+  text-align: justify;
+  text-justify: inter-word;
+  text-justify: inter-ideograph; /* 中文为主更自然；英文为主可删掉这行 */
+}
+
+/* justify 常用补丁：让最后一行也能撑开（否则最后一行通常不拉伸） */
+.page__content ol.small-ol > li::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
 .text-red { color: #d32f2f; }
 .text-blue { color: #1976d2; }
 .text-muted { color: #6b7280; }
-
 
 .text-lg { font-size: 1.2em; }
 .text-xl { font-size: 1.5em; }
@@ -45,8 +59,9 @@
 .small-ol li::marker { font-size: 0.75em; }
 small { font-size: 0.75em; }
 
-.noindent{
+/* 编号不缩进（编号贴左） */
+.noindent {
   margin-left: 0;
-  padding-left: 0;          /* 去掉 ol 默认缩进 */
+  padding-left: 0;            /* 去掉 ol 默认缩进 */
   list-style-position: inside; /* 编号进入内容区，左边缘对齐 */
 }
