@@ -50,7 +50,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 Journal Papers (Selected):
 ---
 <small>1. **Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2026 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small><br>
-<small>2. **Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, Accepted, 2026 ***<span class="text-blue">(JCR Q1)</span>***</small><br>
+<small>2. **Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, 2026.01 ***<span class="text-blue">(JCR Q1)</span>***</small><br>
 <small>3. Yang Li, Yusong Xue, **Jiandian Zeng\***, Danyang Zheng, Li Feng, Huanlai Xing, Collaborative Transformer Inference in Multi-Tier
 Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026 ***<span class="text-blue">(JCR Q1)</span>***</small><br>
 <small>4. Changfu Xu, Jianxiong Guo, **Jiandian Zeng**, Houming Qiu, Tian Wang, Xiaowen Chu, Jiannong Cao,Enhancing AIGC Service Efficiency with Adaptive Multi-Edge Collaboration in A Distributed System, ***IEEE Transactions on Services Computing (TSC)***, 2025.12 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small><br>
@@ -74,8 +74,9 @@ Conference Papers (Selected):
 <small>2. Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small><br>
 <small>3. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small><br>
 <small>4. **Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small><br>
-<small>5. Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
-<small>6. **Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
+<small>5. Yongkang Fan, Yuxuan Xu, Jianxiong Guo, Yanzeng Li, **Jiandian Zeng\***, Enhancing LLM Reasoning via a SLM Supervisor, ***Proceedings of the 2026 Greater Bay Area Forum on Embodied Intelligence: Optical Advances in HCI and VR (EI-OAHV)***, 2026.01 </small><br>
+<small>6. Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
+<small>7. **Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
 
 
 Alumni:
