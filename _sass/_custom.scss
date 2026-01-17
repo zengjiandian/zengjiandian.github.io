@@ -43,3 +43,9 @@
 .text-xll { font-size: 1.8em; }
 
 .small-ol li::marker { font-size: 0.65em; }
+
+.noindent{
+  margin-left: 0;
+  padding-left: 0;          /* 去掉 ol 默认缩进 */
+  list-style-position: inside; /* 编号进入内容区，左边缘对齐 */
+}
