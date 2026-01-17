@@ -45,7 +45,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 1. <small>**PI**, Guangdong Undergraduate Universities Teaching Quality and Reform Project, Exploring Heuristic Learning Based on Multimodal  Large Models（广东省本科高校教学质量与教学改革工程项目, 基于多模态大模型的启发式学习探索), jx2024309, 2024.12-2026.12, 30K RMB </small><br>
 1. <small>**PI**, Beijing Normal University Education Reform Project, Exploring Heuristic Learning Driven by Multimodal Large Models: A Case Study of Algorithms and Programming (Python) (北京师范大学教学建设与改革项目，多模态大模型驱动下的启发式学习探索-以《算法与程序设计（Python）》为例), jx2024040, 2024.06-2025.06, 20K RMB </small><br>
 1. <small>**PI**, Beijing Normal University Teaching Development Project, Research and Practice on Student Classroom Behavior Based on Multimodal Data (北京师范大学教师教学发展基金项目, 基于多模态的学生课堂学习状态研究与实践), 110124201507, 2024.06-2024.12, 10K RMB </small><br>
-{: .small-ol }
+{: .small-ol .noindent}
 
 Journal Papers (Selected):
 ---
@@ -66,7 +66,7 @@ Multi-Node Edge Networks, ***IEEE Network***, Accepted, 2026 ***<span class="tex
 1. <small>**曾建电**, 邹文成, 王田, 大模型浪潮下高校编程教育的风险、反思与改革, ***中国教育信息化***, Accepted, 2026</small><br>
 1. <small>**曾建电**, 邹文成, 王田, 基于大模型数据增强的课堂行为分析, ***教育学刊***, 2025.05</small><br>
 1. <small>**曾建电**, 王田, 贾维嘉, 彭绍亮, 王国军, 传感云研究综述, ***计算机研究与发展***, 2017.05 ***<span class="text-blue">(T1, F5000)</span>***</small><br>
-{: .small-ol }
+{: .small-ol .noindent}
 
 Conference Papers (Selected):
 ---
@@ -77,7 +77,7 @@ Conference Papers (Selected):
 1. <small>Yongkang Fan, Yuxuan Xu, Jianxiong Guo, Yanzeng Li, **Jiandian Zeng\***, Enhancing LLM Reasoning via a SLM Supervisor, ***Proceedings of the 2026 Greater Bay Area Forum on Embodied Intelligence: Optical Advances in HCI and VR (EI-OAHV)***, 2026.01 </small><br>
 1. <small>Xinyi Jin, Wenxiu Xiao, Yuemiao Chen, Lanxue He, **Jiandian Zeng\***, Efficient and Accurate Inference in Edge-Cloud Framework via Large and Small Model Collaboration, ***International Conference on Sensor-Cloud and Edge Computing System (SCECS)***, 2025.04</small><br>
 1. <small>**Jiandian Zeng**, Tian Wang, MD Zakirul Alam Bhuiyan, Cooperative Relay Tracking with Multiple Mobile Camera Sensors, ***Proceedings of the ACM Turing 50th Celebration Conference-China***, 2017.05 </small><br>
-{: .small-ol }
+{: .small-ol .noindent}
 
 Alumni:
 ---
