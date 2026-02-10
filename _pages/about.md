@@ -101,6 +101,9 @@ Reviewer:
 <small>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</small> <br>
 <small>IEEE Transactions on Intelligent Transportation Systems (TITS)</small> <br>
 <small>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</small> <br>
+<small>IEEE Transactions on Industrial Informatics (TII)</small> <br>
+<small>SCIENCE CHINA Information Sciences (SCIS)</small> <br>
+<small>Pattern Recognition (PR)</small> <br>
 <small>IEEE Signal Processing</small> <br>
 <small>IEEE/CAA Journal of Automatica Sinica</small> <br>
 <small>IEEE Network</small> <br>
