@@ -50,10 +50,12 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
-1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2026 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
+1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng\***, Boyuan Li, Shengbo Chen, Tian Wang, Weijia Jia, Dynamic Grouping and Aggregation Weight Optimization for Hierarchical Federated Learning with Quantization, ***IEEE/ACM Transactions on Networking (TON)***, Accepted, 2026.02 ***<span class="text-blue">(CCF A)</span>***</small>
+1. <small>Junjie Liao,  **Jiandian Zeng\***, Binbin Song, Mengting Zhou, Xiaopeng Fan, Tian Wang, Unlocking Explainable and Effective Multimodal Affective Reasoning via Large Language Models, ***Pattern Recognition (PR)***,  Accepted, 2026.02 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
 1. <small>**Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, 2026.01 ***<span class="text-blue">(JCR Q1)</span>***</small>
 1. <small>Yang Li, Yusong Xue, **Jiandian Zeng\***, Danyang Zheng, Li Feng, Huanlai Xing, Collaborative Transformer Inference in Multi-Tier
 Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue">(JCR Q1)</span>***</small>
+1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2025.12 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
 1. <small>Changfu Xu, Jianxiong Guo, **Jiandian Zeng**, Houming Qiu, Tian Wang, Xiaowen Chu, Jiannong Cao,Enhancing AIGC Service Efficiency with Adaptive Multi-Edge Collaboration in A Distributed System, ***IEEE Transactions on Services Computing (TSC)***, 2025.12 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Changfu Xu, Jianxiong Guo, Yuzhu Liang, Haodong Zou, **Jiandian Zeng**, Haipeng Dai, Weijia Jia, Jiannong Cao, Tian Wang, Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling, ***IEEE Transactions on Mobile Computing (TMC)***, 2025.07 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Guo Li, **Jiandian Zeng**, Zihao Peng, Yuzhu Liang, Xi Zheng, Tian Wang, E2EC: Edge-to-Edge Collaboration for Efficient Real-Time Video Surveillance Inference,  ***IEEE Transactions on Mobile Computing (TMC)***, 2025.04 ***<span class="text-blue">(CCF A, JCR Q1)</span>*** </small>
@@ -71,6 +73,7 @@ Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue"
 
 Conference Papers (Selected):
 ---
+1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng**, Guo Li, Ke Chen, Boyuan Li, Tian Wang, HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning, ***The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Ke Chen†, **Jiandian Zeng†**, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026 (WWW)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>**Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small>
