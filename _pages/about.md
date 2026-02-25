@@ -112,7 +112,7 @@ Reviewer:
 <small>IEEE Network</small> <br>
 <small>Information Sciences</small><br>
 <small>Neurocomputing</small><br>
-<small>ACL, ICML, AAAI, EMNLP, NAACL, COLING</small> <br>
+<small>ACL, ICML, AAAI, KDD, EMNLP, NAACL, COLING</small> <br>
 <small>...</small>
 
 
