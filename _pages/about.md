@@ -50,9 +50,9 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
-1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng\***, Boyuan Li, Shengbo Chen, Tian Wang, Weijia Jia, Dynamic Grouping and Aggregation Weight Optimization for Hierarchical Federated Learning with Quantization, ***IEEE/ACM Transactions on Networking (TON)***, Accepted, 2026.02 ***<span class="text-blue">(CCF A)</span>***</small>
+1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng\***, Boyuan Li, Shengbo Chen, Tian Wang, Weijia Jia, Dynamic Grouping and Aggregation Weight Optimization for Hierarchical Federated Learning with Quantization, ***IEEE/ACM Transactions on Networking (TON)***, 2026.02 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Junjie Liao,  **Jiandian Zeng\***, Binbin Song, Mengting Zhou, Xiaopeng Fan, Tian Wang, Unlocking Explainable and Effective Multimodal Affective Reasoning via Large Language Models, ***Pattern Recognition (PR)***,  Accepted, 2026.02 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
-1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2025.12 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
+1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, Accepted, 2026 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
 1. <small>**Jiandian Zeng**, Junjie Liao, Shaochen Sun, Guangxue Zhang, Changfu Xu, Huaijin Liu, Yang Li, Multi-Agent Collaborative Reasoning via Cloud-Edge Framework, ***IEEE Network***, 2026.01 ***<span class="text-blue">(JCR Q1)</span>***</small>
 1. <small>Yang Li, Yusong Xue, **Jiandian Zeng\***, Danyang Zheng, Li Feng, Huanlai Xing, Collaborative Transformer Inference in Multi-Tier
 Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue">(JCR Q1)</span>***</small>
