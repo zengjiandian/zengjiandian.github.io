@@ -21,8 +21,8 @@ redirect_from:
 
 Research Interests:
 ---
-<small>Knowledge Engineering, Affective Computing</small> <br> 
-<small>LLM and SLM, Edge Intelligence, RAG System</small>
+<small>LLM and SLM, Affective Computing</small> <br> 
+<small>Edge Intelligence, RAG System</small>
 
 Experiences:
 ---
