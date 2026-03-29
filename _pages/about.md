@@ -10,7 +10,8 @@ redirect_from:
 <span class="text-xl">**Jiandian Zeng**</span><br>
 <small>Assistant Professor, Ph.D. Supervisor, [Google Scholar](https://scholar.google.com/citations?user=g0k3YVoAAAAJ)</small> <br>
 <small>Institute of Artificial Intelligence and Future Networks</small> <br>
-<small>Faculty of Arts and Sciences, Beijing Normal University</small> <br>
+<small>Advanced Institute of Natural Sciences/Faculty of Arts and Sciences</small> <br>
+<small>Beijing Normal University</small> <br>
 <small>**E-mail**: jiandian<span class="text-red">[AT]</span>bnu.edu.cn</small> <br>
 
 
@@ -74,7 +75,7 @@ Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue"
 Conference Papers (Selected):
 ---
 1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng**, Guo Li, Ke Chen, Boyuan Li, Tian Wang, HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning, ***The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
-1. <small>Ke Chen†, **Jiandian Zeng†**, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026 (WWW)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
+1. <small>Ke Chen†, **Jiandian Zeng†**, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, Matrix as Plan: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026 (WWW)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>**Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>**Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small>
