@@ -23,7 +23,7 @@ redirect_from:
 Research Interests:
 ---
 <small>LLM and SLM, Affective Computing</small> <br> 
-<small>Edge Intelligence, RAG System, Multimodal Learning</small>
+<small>Edge Intelligence, Multimodal Learning</small>
 
 Experiences:
 ---
