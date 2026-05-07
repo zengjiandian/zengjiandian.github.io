@@ -51,6 +51,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
+1. <small>Guo Li, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, Zero-Shot Real-Time Pedestrian Re-Identification Services via Edge-to-Edge Cooperation, ***IEEE Transactions on Services Computing (TSC)***, 2026.05 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, 2026.03 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
 1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng\***, Boyuan Li, Shengbo Chen, Tian Wang, Weijia Jia, Dynamic Grouping and Aggregation Weight Optimization for Hierarchical Federated Learning with Quantization, ***IEEE Transactions on Networking (TON)***, 2026.02 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Junjie Liao,  **Jiandian Zeng\***, Binbin Song, Mengting Zhou, Xiaopeng Fan, Tian Wang, Unlocking Explainable and Effective Multimodal Affective Reasoning via Large Language Models, ***Pattern Recognition (PR)***, 2026.03 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
@@ -74,8 +75,9 @@ Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue"
 
 Conference Papers (Selected):
 ---
+1. <small>Guo Lig, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, MemoVAD: Resource-Efficient Video Anomaly Detection via Dynamic Semantic Memory in Edge Computing Scenarios, ***The 35th International Joint Conference on Artificial Intelligence (IJCAI)***, accepted, 2026 ***<span class="text-blue">(CCF B)</span>***</small>
 1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng**, Guo Li, Ke Chen, Boyuan Li, Tian Wang, HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning, ***The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
-1. <small>Ke Chen†, **Jiandian Zeng†**, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, Matrix as Plan: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026 (WWW)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
+1. <small>Ke Chen†, **Jiandian Zeng†**, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang, Matrix as Plan: Structured Logical Reasoning with Feedback-Driven Replanning, ***The Web Conference 2026 (WWW)***, 2026.04 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Difattack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space, ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)***, 2024.03 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>**Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)***, 2022.07 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>**Jiandian Zeng**, Tianyi Liu, Jiantao Zhou, Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities, ***Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2022.12 ***<span class="text-blue">(CCF B)</span>***</small>
