@@ -74,7 +74,7 @@ Multi-Node Edge Networks, ***IEEE Network***, 2026.01 ***<span class="text-blue"
 1. <small>**曾建电**, 王田, 贾维嘉, 彭绍亮, 王国军, 传感云研究综述, ***计算机研究与发展***, 2017.05 ***<span class="text-blue">(T1, F5000)</span>***</small>
 {: .small-ol .noindent}
 
-Conference Papers (Selected):
+Conference Papers (Selected *Corresponding Author):
 ---
 1. <small>Guo Li, **Jiandian Zeng\***, Yang Li, Zihao Peng, Ke Chen, Tian Wang, MemoVAD: Resource-Efficient Video Anomaly Detection via Dynamic Semantic Memory in Edge Computing Scenarios, ***The 35th International Joint Conference on Artificial Intelligence (IJCAI)***, accepted, 2026 ***<span class="text-blue">(CCF B)</span>***</small>
 1. <small>Zihao Peng, Nan Zou, **Jiandian Zeng**, Guo Li, Ke Chen, Boyuan Li, Tian Wang, HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning, ***The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)***, accepted, 2026 ***<span class="text-blue">(CCF A)</span>***</small>
