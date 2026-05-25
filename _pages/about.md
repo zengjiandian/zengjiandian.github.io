@@ -103,6 +103,7 @@ Reviewer:
 <small>ACM Transactions on Information System (TOIS)</small> <br>
 <small>IEEE Transactions on Dependable and Secure Computing (TDSC)</small> <br>
 <small>IEEE Transactions on Multimedia (TMM)</small> <br>
+<small>IEEE Transactions on Mobile Computing (TMC)</small> <br>
 <small>IEEE Transactions on Affective Computing (TAFFC)</small> <br>
 <small>IEEE Transactions on Audio, Speech and Language Processing (TASLP)</small> <br>
 <small>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</small> <br>
