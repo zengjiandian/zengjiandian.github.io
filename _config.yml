@@ -23,7 +23,7 @@ repository               : "zengjiandian/zengjiandian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"  #profile.png
+  avatar           : "profile.png"  
   name             : "Jiandian Zeng"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
