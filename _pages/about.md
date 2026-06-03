@@ -10,7 +10,7 @@ redirect_from:
 <span class="text-xl">**Jiandian Zeng**</span><br>
 <small>Assistant Professor, Ph.D. Supervisor, [Google Scholar](https://scholar.google.com/citations?user=g0k3YVoAAAAJ)</small> <br>
 <small>Institute of Artificial Intelligence and Future Networks</small> <br>
-<small>Advanced Institute of Natural Sciences/Faculty of Arts and Sciences</small> <br>
+<small>Advanced Institute of Natural Sciences / Faculty of Arts and Sciences</small> <br>
 <small>Beijing Normal University</small> <br>
 <small>**E-mail**: jiandian<span class="text-red">[AT]</span>bnu.edu.cn</small> <br>
 
