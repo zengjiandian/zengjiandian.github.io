@@ -27,7 +27,7 @@ Research Interests:
 
 Experiences:
 ---
-<small>**2023.06-present,  Assistant Professor**, Institute of Artificial Intelligence and Future Networks, Beijing Normal University, China</small> <br>
+<small>**2023.06-present,  Assistant Professor**, Institute of Artificial Intelligence and Future Networks, Advanced Institute of Natural Sciences, Beijing Normal University, China</small> <br>
 <small>**2023.03-2023.05, Research Assistant**, Engineering Research Center of Cloud-Edge Intelligent Collaboration on Big Data, Ministry of Education, Beijing Normal University, China</small> <br>
 <small>**2019.01-2023.02,  Ph.D.**, Department of Computer and Information Science, University of Macau, Macau, China</small>
 
