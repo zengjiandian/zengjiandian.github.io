@@ -51,7 +51,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
-1. <small>Yang Li, Chen Chen, Li Feng, **Jiandian Zeng\***, Tian Wang, Yuan Wu, Lyapunov-guided Latency Optimization in Semantic Communication Empowered Edge Networks, ***IEEE Transactions on Mobile Computing (TMC)***, Accepted, 2026.06 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
+1. <small>Yang Li, Chen Chen, Li Feng, **Jiandian Zeng\***, Tian Wang, Yuan Wu, Lyapunov-guided Latency Optimization in Semantic Communication Empowered Edge Networks, ***IEEE Transactions on Mobile Computing (TMC)***, 2026.06 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Guo Li, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, Zero-Shot Real-Time Pedestrian Re-Identification Services via Edge-to-Edge Cooperation, ***IEEE Transactions on Services Computing (TSC)***, 2026.05 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Haodong Zou, Jianxiong Guo, **Jiandian Zeng**, Yupeng Li, Changfu Xu, Haipeng Dai, Jiannong Cao, Tian Wang, Fine-Grained Lifetime Control for Heterogeneous Service Provisioning in Energy-Constrained Edge-Edge Systems, ***IEEE Transactions on Networking (TON)***, 2026.05 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>**Jiandian Zeng**, Guangxue Zhang, Yang Li, Jiantao Zhou, Tian Wang, Weijia Jia, Cloud-edge Collaboration for Robust Network Embeddings, ***ACM Transactions on Internet Technology (TOIT)***, 2026.03 ***<span class="text-blue">(CCF B, JCR Q1)</span>***</small>
@@ -109,6 +109,7 @@ Reviewer:
 <small>IEEE Transactions on Intelligent Transportation Systems (TITS)</small> <br>
 <small>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</small> <br>
 <small>IEEE Transactions on Industrial Informatics (TII)</small> <br>
+<small> IEEE Transactions on Computational Social Systems (TCSS)</small> <br>
 <small>SCIENCE CHINA Information Sciences (SCIS)</small> <br>
 <small>Pattern Recognition (PR)</small> <br>
 <small>IEEE Signal Processing</small> <br>
