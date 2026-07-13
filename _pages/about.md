@@ -97,6 +97,7 @@ Alumni:
 Reviewer:
 ---
 <small>IEEE Transactions on Pattern Analysis and Machine Learning (TPAMI)</small> <br>
+<small>IEEE Transactions on Image Processing (TIP)</small> <br>
 <small>IEEE Transactions on Information Forensics and Security (TIFS)</small> <br>
 <small>ACM Transactions on Information System (TOIS)</small> <br>
 <small>IEEE Transactions on Dependable and Secure Computing (TDSC)</small> <br>
