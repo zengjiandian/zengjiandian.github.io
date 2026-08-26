@@ -27,16 +27,16 @@ Research Interests:
 
 Experiences:
 ---
-<small>**2026.07 - present,  Associate Professor**, Institute of Artificial Intelligence and Future Networks, Faculty of Arts and Sciences, Beijing Normal University, China</small> <br>
-<small>**2023.06 - 2026.06,  Assistant Professor**, Institute of Artificial Intelligence and Future Networks, Advanced Institute of Natural Sciences, Beijing Normal University, China</small> <br>
-<small>**2023.03 - 2023.05, Research Assistant**, Engineering Research Center of Cloud-Edge Intelligent Collaboration on Big Data, Ministry of Education, Beijing Normal University, China</small> <br>
+<small>**2026.07-present,  Associate Professor**, Institute of Artificial Intelligence and Future Networks, Faculty of Arts and Sciences, Beijing Normal University, China</small> <br>
+<small>**2023.06-2026.06,  Assistant Professor**, Institute of Artificial Intelligence and Future Networks, Advanced Institute of Natural Sciences, Beijing Normal University, China</small> <br>
+<small>**2023.03-2023.05, Research Assistant**, Engineering Research Center of Cloud-Edge Intelligent Collaboration on Big Data, Ministry of Education, Beijing Normal University, China</small> <br>
 <small>**2019.01-2023.02,  Ph.D.**, Department of Computer and Information Science, University of Macau, Macau, China</small>
 
 Teaching:
 ---
 1. <small>Literature Reading and Writing (文献阅读与论文写作) **2026 Spring** </small>
 1. <small>Frontiers of Deep Learning (深度学习前沿) **2023 Fall, 2024 Fall** </small>
-1. <small>Algorithm and Programming with Python (算法与程序设计(Python)) **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring** </small>
+1. <small>Algorithm and Programming with Python (算法与程序设计(Python)) **2024 Spring, 2024 Fall, 2025 Spring, 2026 Spring, 2026 Fall** </small>
 {: .small-ol .noindent}
 
 Projects:
@@ -53,7 +53,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 Journal Papers (Selected):
 ---
 1. <small>Jun Liu, Jiantao Zhou, **Jiandian Zeng**, Jinyu Tian, Isao Echizen, DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross–Domain, ***IEEE Transactions on Dependable and Secure Computing (TDSC)***, 2026.08 ***<span class="text-blue">(CCF A)</span>***</small>
-1. <small>Huaijin Liu, Jixiang Du, Hongbo Zhang, Guoguang Hua, **Jiandian Zeng\***, A 4D radar and LiDAR fusion framework for weather-robust 3D object detection, ***Neural Networks***, 2026.07. ***<span class="text-blue">(CCF B)</span>***</small>
+1. <small>Huaijin Liu, Jixiang Du, Hongbo Zhang, Guoguang Hua, **Jiandian Zeng\***, A 4D radar and LiDAR fusion framework for weather-robust 3D object detection, ***Neural Networks***, 2026.07 ***<span class="text-blue">(CCF B)</span>***</small>
 1. <small>Yang Li, Chen Chen, Li Feng, **Jiandian Zeng\***, Tian Wang, Yuan Wu, Lyapunov-guided Latency Optimization in Semantic Communication Empowered Edge Networks, ***IEEE Transactions on Mobile Computing (TMC)***, 2026.06 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Guo Li, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, Zero-Shot Real-Time Pedestrian Re-Identification Services via Edge-to-Edge Cooperation, ***IEEE Transactions on Services Computing (TSC)***, 2026.05 ***<span class="text-blue">(CCF A)</span>***</small>
 1. <small>Haodong Zou, Jianxiong Guo, **Jiandian Zeng**, Yupeng Li, Changfu Xu, Haipeng Dai, Jiannong Cao, Tian Wang, Fine-Grained Lifetime Control for Heterogeneous Service Provisioning in Energy-Constrained Edge-Edge Systems, ***IEEE Transactions on Networking (TON)***, 2026(34): 5271-5286. ***<span class="text-blue">(CCF A)</span>***</small>
