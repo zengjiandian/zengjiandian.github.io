@@ -52,7 +52,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
-1. <small>Huaijin Liu, Jixiang Du, Hongbo Zhang, Guoguang Hua, **Jiandian Zeng\***, A 4D radar and LiDAR fusion framework for weather-robust 3D object detection, ***Neural Networks***,2026.07. ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
+1. <small>Huaijin Liu, Jixiang Du, Hongbo Zhang, Guoguang Hua, **Jiandian Zeng\***, A 4D radar and LiDAR fusion framework for weather-robust 3D object detection, ***Neural Networks***, 2026.07. ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Yang Li, Chen Chen, Li Feng, **Jiandian Zeng\***, Tian Wang, Yuan Wu, Lyapunov-guided Latency Optimization in Semantic Communication Empowered Edge Networks, ***IEEE Transactions on Mobile Computing (TMC)***, 2026.06 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Guo Li, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, Zero-Shot Real-Time Pedestrian Re-Identification Services via Edge-to-Edge Cooperation, ***IEEE Transactions on Services Computing (TSC)***, 2026.05 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Haodong Zou, Jianxiong Guo, **Jiandian Zeng**, Yupeng Li, Changfu Xu, Haipeng Dai, Jiannong Cao, Tian Wang, Fine-Grained Lifetime Control for Heterogeneous Service Provisioning in Energy-Constrained Edge-Edge Systems, ***IEEE Transactions on Networking (TON)***, 2026(34): 5271-5286. ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
