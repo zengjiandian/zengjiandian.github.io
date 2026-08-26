@@ -40,8 +40,8 @@ Teaching:
 
 Projects:
 ---
-1. <small>**PI**, Natural Science Foundation of China (NSFC), Research on the Key Technology of Robust Multimodal Sentiment
-Analysis (国家自然科学基金委青年科学基金项目, 面向鲁棒性多模态情感分析关键技术研究), 300K RMB, 2024.01-2026.12</small>
+1. <small>**PI**, Natural Science Foundation of China (NSFC), Research On Key Technologies of Large – Small Model Collaborative Mechanisms for Cloud – Edge Systems (国家自然科学基金委面上项目, 面向云边系统的大小模型协同机制关键技术研究), 500K RMB, 2027.01-2030.12</small>
+1. <small>**PI**, Natural Science Foundation of China (NSFC), Research on the Key Technology of Robust Multimodal Sentiment Analysis (国家自然科学基金委青年科学基金项目, 面向鲁棒性多模态情感分析关键技术研究), 300K RMB, 2024.01-2026.12</small>
 1. <small>**PI**, COIOS Artificial Intelligence Technology Co. Technical Project, Development of COIOS Cognitive
 Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认知推理底座模型研发), 2025.05-2026.06, 250K RMB, 2025.06-2026.06</small>
 1. <small>**PI**, Guangdong Undergraduate Universities Teaching Quality and Reform Project, Exploring Heuristic Learning Based on Multimodal  Large Models（广东省本科高校教学质量与教学改革工程项目, 基于多模态大模型的启发式学习探索), jx2024309, 2024.12-2026.12, 30K RMB </small>
@@ -51,6 +51,7 @@ Neuro-Symbolic Reasoning Base Model (基于神经符号方法的 COIOS 超级认
 
 Journal Papers (Selected):
 ---
+1. <small>Huaijin Liu, Jixiang Du, Hongbo Zhang, Guoguang Hua, **Jiandian Zeng\***, A 4D radar and LiDAR fusion framework for weather-robust 3D object detection***, 2026.07. ***<span class="text-blue">Neural Networks (CCF B, JCR Q1)</span>*** </small> 
 1. <small>Yang Li, Chen Chen, Li Feng, **Jiandian Zeng\***, Tian Wang, Yuan Wu, Lyapunov-guided Latency Optimization in Semantic Communication Empowered Edge Networks, ***IEEE Transactions on Mobile Computing (TMC)***, 2026.06 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Guo Li, **Jiandian Zeng\***, Zihao Peng, Ke Chen, Tian Wang, Zero-Shot Real-Time Pedestrian Re-Identification Services via Edge-to-Edge Cooperation, ***IEEE Transactions on Services Computing (TSC)***, 2026.05 ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
 1. <small>Haodong Zou, Jianxiong Guo, **Jiandian Zeng**, Yupeng Li, Changfu Xu, Haipeng Dai, Jiannong Cao, Tian Wang, Fine-Grained Lifetime Control for Heterogeneous Service Provisioning in Energy-Constrained Edge-Edge Systems, ***IEEE Transactions on Networking (TON)***, 2026(34): 5271-5286. ***<span class="text-blue">(CCF A, JCR Q1)</span>***</small>
