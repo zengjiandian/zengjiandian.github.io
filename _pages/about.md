@@ -1,4 +1,4 @@
----
+<img width="206" height="62" alt="image" src="https://github.com/user-attachments/assets/d6487b3b-a828-427b-bf0c-eb927979e87f" />---
 permalink: /
 #title: ""
 author_profile: true
@@ -113,6 +113,7 @@ Reviewer:
 <small>IEEE Transactions on Industrial Informatics (TII)</small> <br>
 <small> IEEE Transactions on Computational Social Systems (TCSS)</small> <br>
 <small> IEEE Transactions on Consumer Electronics (TCE)</small> <br>
+<small>ACM Transactions on Autonomous and Adaptive Systems</small> <br>
 <small>SCIENCE CHINA Information Sciences (SCIS)</small> <br>
 <small>Pattern Recognition (PR)</small> <br>
 <small>IEEE Signal Processing</small> <br>
