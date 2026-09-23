@@ -113,6 +113,7 @@ Reviewer:
 <small>IEEE Transactions on Industrial Informatics (TII)</small> <br>
 <small> IEEE Transactions on Computational Social Systems (TCSS)</small> <br>
 <small> IEEE Transactions on Consumer Electronics (TCE)</small> <br>
+<small> ACM Transactions on Autonomous and Adaptive Systems (TAAS)</small> <br>
 <small>SCIENCE CHINA Information Sciences (SCIS)</small> <br>
 <small>Pattern Recognition (PR)</small> <br>
 <small>IEEE Signal Processing</small> <br>
